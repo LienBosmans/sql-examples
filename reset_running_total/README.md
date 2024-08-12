@@ -1,3 +1,3 @@
 ## Supporting material for
 * https://medium.com/@lienbosmans/resetting-a-running-total-with-sql-0fdec32a6908
-* (part II will be published soon)
+* https://medium.com/@lienbosmans/creating-accurate-fifo-stock-level-projections-with-sql-df609290fa30
